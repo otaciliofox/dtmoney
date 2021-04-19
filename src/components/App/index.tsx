@@ -1,11 +1,11 @@
 import { GlobalStyle } from '../../styles/global';
-import { Container } from './styles';
+import { Header } from '../Header';
 
 export function App() {
   return (
-    <Container>
-      <h1>App</h1>
-      < GlobalStyle />
-    </Container>
+    <>
+      <Header />
+      <GlobalStyle />
+    </>
   );
 };

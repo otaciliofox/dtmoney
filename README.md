@@ -24,6 +24,8 @@ Check the live version here:
 ## Dependencies
 
 - ReactJS
+- styled-Components
+- MirageJS
 
 ### Screenshots
 
